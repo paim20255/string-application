@@ -25,6 +25,11 @@ public class VariableApp {
         String message = "I hope you have a great day!";
         System.out.println(message);
 
+        // Step 2 questions 1-5:
+
+        int daysInWeek = 7;
+        System.out.println("The number of days in a week: " + daysInWeek);
+
 
 
 
