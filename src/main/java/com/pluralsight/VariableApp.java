@@ -30,6 +30,15 @@ public class VariableApp {
         int daysInWeek = 7;
         System.out.println("The number of days in a week: " + daysInWeek);
 
+        // Step 2: second question
+
+        float priceOfCoffee = 4.99f;
+        System.out.println("The price of coffee is: " + priceOfCoffee);
+
+        // Step 2: Third question
+        char favoriteLetter = 'N';
+        System.out.println("My favorite letter is: " + favoriteLetter);
+
 
 
 
