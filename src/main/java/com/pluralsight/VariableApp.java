@@ -39,6 +39,12 @@ public class VariableApp {
         char favoriteLetter = 'N';
         System.out.println("My favorite letter is: " + favoriteLetter);
 
+        // Step 2: fourth question
+        boolean raining = false;
+        System.out.println("It is raining outside?: " + raining);
+
+
+
 
 
 
